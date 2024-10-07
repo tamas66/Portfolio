@@ -6,13 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
-# Ignore the Scripts folder
+# Ignore the Scripts folder in specific directories
 data_analysis/Scripts/
 newstrading/Scripts/
-# Ignore the share folder
+
+# Ignore the share folder in specific directories
 data_analysis/share/
 newstrading/share/
-# Ignore the pyvenv.cfg file
+
+# Ignore the pyvenv.cfg file in specific directories
 data_analysis/pyvenv.cfg
 newstrading/pyvenv.cfg
 
