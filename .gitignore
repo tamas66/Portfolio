@@ -7,13 +7,14 @@ __pycache__/
 *.so
 
 # Ignore the Scripts folder
-/Scripts/
-
+data_analysis/Scripts/
+newstrading/Scripts/
 # Ignore the share folder
-/share/
-
+data_analysis/share/
+newstrading/share/
 # Ignore the pyvenv.cfg file
-pyvenv.cfg
+data_analysis/pyvenv.cfg
+newstrading/pyvenv.cfg
 
 # Distribution / packaging
 .Python
@@ -92,14 +93,6 @@ profile_default/
 ipython_config.py
 
 # pyenv
-# Ignore the Scripts folder
-/Scripts/
-
-# Ignore the share folder
-/share/
-
-# Ignore the pyvenv.cfg file
-pyvenv.cfg
 #   For a library or package, you might want to ignore these files since the code is
 #   intended to run in multiple environments; otherwise, check them in:
 # .python-version
