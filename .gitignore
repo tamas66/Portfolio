@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore the Scripts folder
+/Scripts/
+
+# Ignore the share folder
+/share/
+
+# Ignore the pyvenv.cfg file
+pyvenv.cfg
+
 # Distribution / packaging
 .Python
 build/
