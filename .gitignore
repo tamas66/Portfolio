@@ -3,6 +3,18 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore the Scripts folder in specific directories
+data_analysis/Scripts/
+newstrading/Scripts/
+
+# Ignore the share folder in specific directories
+data_analysis/share/
+newstrading/share/
+
+# Ignore the pyvenv.cfg file in specific directories
+data_analysis/pyvenv.cfg
+newstrading/pyvenv.cfg
+
 # C extensions
 *.so
 
