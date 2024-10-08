@@ -6,14 +6,17 @@ __pycache__/
 # Ignore the Scripts folder in specific directories
 data_analysis/Scripts/
 newstrading/Scripts/
+mathematical_modelling/Scripts/
 
 # Ignore the share folder in specific directories
 data_analysis/share/
 newstrading/share/
+mathematical_modelling/share/
 
 # Ignore the pyvenv.cfg file in specific directories
 data_analysis/pyvenv.cfg
 newstrading/pyvenv.cfg
+mathematical_modelling/pyvenv.cfg
 
 # C extensions
 *.so
